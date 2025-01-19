@@ -134,6 +134,11 @@ http://13.203.67.150/horoscope
 ![Screenshot 2025-01-19 072802](https://github.com/user-attachments/assets/4d5bbc3a-8006-422b-9908-da2e59e5df1a)
 ![Screenshot 2025-01-19 072813](https://github.com/user-attachments/assets/ade14706-4fab-4227-99af-d477d8a97188)
 
+## Langflow
+![WhatsApp Image 2025-01-19 at 10 35 26_ed736962](https://github.com/user-attachments/assets/3f8149df-b6c2-4db9-a599-c5e5399d401c)
+![WhatsApp Image 2025-01-19 at 10 35 56_d4ba9d28](https://github.com/user-attachments/assets/d34d73ad-b0e2-410e-80b5-6ba4219ba28c)
+![WhatsApp Image 2025-01-19 at 10 36 29_83052ebd](https://github.com/user-attachments/assets/c360206a-ecaf-4c9c-9879-07b5f7608872)
+
 
 # Frontend
 
