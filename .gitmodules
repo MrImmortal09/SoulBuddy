@@ -1,3 +1,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/NeonKazuha/api-chat.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/MrImmortal09/soul-frontend.git
