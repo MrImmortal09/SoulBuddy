@@ -1,6 +1,14 @@
-# Backend
 
-## Introduction
+#Introduction
+SoulBuddy is a web application designed to provide users with spiritual insurance services. It serves as the client-side interface for the SoulBuddy platform, allowing users to access various spiritual services, including Kundali, Horoscope, and Spiritual Content. This project is built using React and Next.js, ensuring a responsive and dynamic user experience.
+
+
+
+
+
+## Backend
+
+
 
 Welcome to **API Chat**, a cutting-edge Python-based chat application designed to facilitate seamless communication through a RESTful API. This project provides a robust foundation for building chat functionalities, enabling users to send and receive messages efficiently. The application leverages advanced technologies to offer a unique blend of traditional chat features and innovative astrology integration.
 
